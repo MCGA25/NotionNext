@@ -1,0 +1,175 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 5090553 */
+  src: url('iconfont.woff2?t=1765892858328') format('woff2'),
+       url('iconfont.woff?t=1765892858328') format('woff'),
+       url('iconfont.ttf?t=1765892858328') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xingye:before {
+  content: "\e61e";
+}
+
+.icon-moxingfen:before {
+  content: "\e636";
+}
+
+.icon-lishi:before {
+  content: "\e606";
+}
+
+.icon-huaxue:before {
+  content: "\e602";
+}
+
+.icon-yingyu:before {
+  content: "\e607";
+}
+
+.icon-huaxue1:before {
+  content: "\e608";
+}
+
+.icon-dili:before {
+  content: "\e609";
+}
+
+.icon-shuxue:before {
+  content: "\e60b";
+}
+
+.icon-zhengzhi:before {
+  content: "\e60e";
+}
+
+.icon-shici:before {
+  content: "\e66a";
+}
+
+.icon-hangye:before {
+  content: "\e6f5";
+}
+
+.icon-gushici:before {
+  content: "\e615";
+}
+
+.icon-zimeiti:before {
+  content: "\e621";
+}
+
+.icon-shipin:before {
+  content: "\e622";
+}
+
+.icon-kaifahuanjing:before {
+  content: "\e65a";
+}
+
+.icon-shujuji:before {
+  content: "\e651";
+}
+
+.icon-tiyu:before {
+  content: "\e6c7";
+}
+
+.icon-gongju:before {
+  content: "\e620";
+}
+
+.icon-kexue:before {
+  content: "\e6a5";
+}
+
+.icon-yingyu1:before {
+  content: "\e6eb";
+}
+
+.icon-wuli:before {
+  content: "\e650";
+}
+
+.icon-songshu-01:before {
+  content: "\e60d";
+}
+
+.icon-songshu:before {
+  content: "\e703";
+}
+
+.icon-hanyuwen:before {
+  content: "\e7d4";
+}
+
+.icon-hanyuwen1:before {
+  content: "\e7d7";
+}
+
+.icon-shengwu:before {
+  content: "\e7d8";
+}
+
+.icon-biancheng:before {
+  content: "\fe81";
+}
+
+.icon-zhengzhi1:before {
+  content: "\e757";
+}
+
+.icon-kaifahuanjing1:before {
+  content: "\e957";
+}
+
+.icon-bushuhuanjing:before {
+  content: "\e696";
+}
+
+.icon-gongzuoliu:before {
+  content: "\e681";
+}
+
+.icon-a-rongqi2021x:before {
+  content: "\e67a";
+}
+
+.icon-AIshuziren:before {
+  content: "\e6df";
+}
+
+.icon-moxingwenjian:before {
+  content: "\e700";
+}
+
+.icon-ziran:before {
+  content: "\e720";
+}
+
+.icon-AIgongju:before {
+  content: "\e6a3";
+}
+
+.icon-shuziren:before {
+  content: "\e600";
+}
+
+.icon-a-paichuzhongdie6:before {
+  content: "\e604";
+}
+
+.icon-songshu1:before {
+  content: "\e761";
+}
+
+.icon-AIgongju1:before {
+  content: "\e689";
+}
+
